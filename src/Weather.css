@@ -1,5 +1,6 @@
 .Weather {
   padding: 20px;
+  margin: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
 }
@@ -65,4 +66,8 @@
   height: auto;
   line-height: 15px;
   white-space: nowrap;
+}
+
+.footer {
+  margin-left: 20px;
 }
